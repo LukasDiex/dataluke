@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dataluke
+- 👋 Hi, I’m @LukasDiex
 - 👀 I’m interested in economics, politics and photography
 - 🌱 I’m currently learning how to add heterodox layers to economic problems
 - 💞️ I’m looking to collaborate on data struggles which might be useful for my students
